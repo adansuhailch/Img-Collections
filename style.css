@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.images {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+
+.main-con {
+    display: flex;
+}
+
+.first-con {
+    flex-direction: column;
+    display: flex;
+    width: 25%;
+}
+
+.second-con {
+    flex-direction: column;
+    display: flex;
+    width: 25%;
+}
+
+.third-con {
+    flex-direction: column;
+    display: flex;
+    width: 25%;
+}
+
+.forth-con {
+    flex-direction: column;
+    display: flex;
+    width: 25%;
+}
+
+#about-me {
+    width: 100%;
+    height: auto;
+}
+
+#adan-tech {
+    border-radius: 50px;
+}
+
+#dev-code {
+    height: auto;
+    width: 100%;
+}
+
+#magic-circle {
+    border-radius: 150rem;
+}
+
+#chai-budget {
+    border-radius: 30px;
+}
+
+#dev-excuses {
+    width: 100%;
+    height: auto;
+}
+
+.frontend {
+    width: 100%;
+    height: auto;
+}
+
+.html {
+    width: 100%;
+    height: auto;
+}
+
+#java {
+    height: auto;
+}
+
+#logo {
+    border-radius: 30rem;
+    height: auto;
+}
